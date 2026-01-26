@@ -1,0 +1,12 @@
+[project]
+name = "nephew-lock"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mediapipe>=0.10.32",
+    "numpy>=2.4.1",
+    "pandas>=3.0.0",
+    "tensorflow>=2.20.0",
+]
