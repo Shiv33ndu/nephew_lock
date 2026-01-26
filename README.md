@@ -3,7 +3,7 @@
 
 An intelligent screen-locking service designed for tablets and mobile devices. Using a Siamese Network architecture and MobileFaceNet, the application detects a specific child’s face and immediately locks the device to prevent unauthorized access or accidental "toddler-interference." Features a "Supervised Mode" that keeps the device unlocked when a recognized adult is also present in the frame.
 
-This project utilizes MobileFaceNet to generate 128-d embeddings, optimized for resource-constrained Android devices. Key features include custom Triplet Loss training with semi-hard negative mining and an evolving "Gold Standard" embedding using Exponential Moving Averages (EMA) to account for facial changes as a child grows.
+This application utilizes MobileFaceNet to generate 128-d embeddings and One-shot face verification, optimized for resource-constrained Android devices. Key features include custom Triplet Loss training with semi-hard negative mining and an evolving "Gold Standard" embedding using Exponential Moving Averages (EMA) to account for facial changes as a child grows.
 
 ## Key Features
 
