@@ -45,3 +45,6 @@ nephew_lock/
 
 ## Tech Stack & Methodology
 
+### The Model: Siamese Network
+
+Instead of a simple classifier, this project uses a **Siamese Network** to learn a distance metric.
