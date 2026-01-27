@@ -48,3 +48,7 @@ nephew_lock/
 ### The Model: Siamese Network
 
 Instead of a simple classifier, this project uses a **Siamese Network** to learn a distance metric.
+
+- **Backbone:** MobileFaceNet (Pre-trained on MS-Celeb-1M)
+- **Loss Function:** Triplet Loss with Semi-Hard Negative Mining
+- **Input:** `$112 \times 112$` Aligned Face Crops
