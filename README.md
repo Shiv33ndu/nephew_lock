@@ -59,3 +59,6 @@ Instead of a simple classifier, this project uses a **Siamese Network** to learn
 - **Blur Filtering:** Automated Laplacian variance check to discard motion-blurred images
 - **Landmark Alignment:** MediaPipe-based rotation to ensure eyes are horizontally level
 - **Online Triplet Generation:** Dynamic batch creation to ensure the model stays challenged by "Hard Negatives" (Family Members)
+
+
+### 📈 Roadmap
