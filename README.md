@@ -62,3 +62,10 @@ Instead of a simple classifier, this project uses a **Siamese Network** to learn
 
 
 ### 📈 Roadmap
+
+- [x] Data collection and manual cleaning
+- [x] Automated Face Alignment & Cropping pipeline
+- [x] Triplet Generator implementation
+- [ ] Training on family-specific "Hard Negatives"
+- [ ] TFLite conversion for Samsung Android deployment
+- [ ] Android Background Service implementation
