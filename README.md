@@ -12,6 +12,10 @@ This application utilizes MobileFaceNet to generate 128-d embeddings and One-sho
 - **Adaptive Recognition**: Implements Exponential Moving Average (EMA) for embeddings, allowing the model to evolve as the child’s facial features change over time.
 - **Low-Latency Performance**: Built on MobileFaceNet, optimized for high-speed inference on resource-constrained mobile hardware.
 
+---
+
+## Project Structure 
+
 ```
 nephew_lock/
 ├── data/
