@@ -46,6 +46,7 @@ nephew_lock/
 ├── pyproject.toml          # Enterprise dependency locking
 └── config.yaml             # Thresholds (e.g., lock_dist: 0.6)
 ```
+---
 
 ## Tech Stack & Methodology
 
