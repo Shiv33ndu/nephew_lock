@@ -80,3 +80,5 @@ Instead of a simple classifier, this project uses a **Siamese Network** to learn
 ## Author 
 
 Shivendu Kumar | Machine Learning Engineer
+
+---
