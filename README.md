@@ -74,3 +74,9 @@ Instead of a simple classifier, this project uses a **Siamese Network** to learn
 - [ ] Training on family-specific "Hard Negatives"
 - [ ] TFLite conversion for Samsung Android deployment
 - [ ] Android Background Service implementation
+
+---
+
+## Author 
+
+Shivendu Kumar
